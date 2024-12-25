@@ -1,5 +1,3 @@
-// "because satanism is best defeated by summoning a bigger satan"
-//   ~Alcaro, 2019 (discussing Asar)
 #include "addr2line.h"
 #include "std-includes.h"
 #include "libsmw.h"
